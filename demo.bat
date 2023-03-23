@@ -1,1 +1,1 @@
-echo "hi this is for checking SCM purpose"
+echo "hi this is for checking SCM purpose2"
