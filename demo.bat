@@ -1,1 +1,1 @@
-echo "hi this is executed successfully"
+echo "hi this is for checking SCM purpose"
